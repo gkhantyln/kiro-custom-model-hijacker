@@ -83,7 +83,7 @@ Kendi API endpoint'iniz varsa (OpenAI uyumlu):
 
 #### Adım 1: Projeyi İndirin
 ```bash
-git clone https://github.com/gkhantylnl/kiro-custom-model-hijacker.git
+git clone https://github.com/gkhantyln/kiro-custom-model-hijacker.git
 cd kiro-custom-model-hijacker
 ```
 
@@ -405,7 +405,7 @@ $env:NODE_TLS_REJECT_UNAUTHORIZED="0"
 #### 1️⃣ Projeyi İndirin
 
 ```bash
-git clone https://github.com/gkhantylnl/kiro-custom-model-hijacker.git
+git clone https://github.com/gkhantyln/kiro-custom-model-hijacker.git
 cd kiro-custom-model-hijacker
 ```
 
@@ -779,7 +779,7 @@ Bu proje **açık kaynak** ve **topluluk odaklıdır**! Katkılarınızı bekliy
 ### 🌟 Nasıl Katkıda Bulunabilirsiniz?
 
 #### 1. 🐛 Bug Bildirimi
-Bir hata mı buldunuz? [Issue açın](https://github.com/gkhantylnl/kiro-custom-model-hijacker/issues)!
+Bir hata mı buldunuz? [Issue açın](https://github.com/gkhantyln/kiro-custom-model-hijacker/issues)!
 
 #### 2. 💡 Özellik Önerisi
 Yeni bir fikriniz mi var? Tartışalım!
@@ -930,7 +930,7 @@ Kiro'nun resmi MCP (Model Context Protocol) desteği ile API'lerinizi tool olara
 
 ### 👨‍💻 Geliştirici: Gökhan Taylan
 
-[![GitHub](https://img.shields.io/badge/GitHub-gkhantylnl-181717?style=for-the-badge&logo=github)](https://github.com/gkhantylnl)
+[![GitHub](https://img.shields.io/badge/GitHub-gkhantylnl-181717?style=for-the-badge&logo=github)](https://github.com/gkhantyln)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gkhantyln-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gkhantyln/)
 [![Telegram](https://img.shields.io/badge/Telegram-llcoder-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/llcoder)
 [![Instagram](https://img.shields.io/badge/Instagram-ayzvisionstudio-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/ayzvisionstudio/)
@@ -940,8 +940,8 @@ Kiro'nun resmi MCP (Model Context Protocol) desteği ile API'lerinizi tool olara
 
 ### 💬 İletişim Kanalları
 
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/gkhantylnl/kiro-custom-model-hijacker/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/gkhantylnl/kiro-custom-model-hijacker/discussions)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/gkhantyln/kiro-custom-model-hijacker/issues)
+- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/gkhantyln/kiro-custom-model-hijacker/discussions)
 - 📧 **Email**: tylngkhn@gmail.com
 - 💬 **Telegram**: [@llcoder](https://t.me/llcoder)
 
@@ -951,7 +951,7 @@ Kiro'nun resmi MCP (Model Context Protocol) desteği ile API'lerinizi tool olara
 
 ### 🌟 Projeyi Beğendiyseniz Star Vermeyi Unutmayın! 🌟
 
-**Made with ❤️ by [Gökhan Taylan](https://github.com/gkhantylnl)**
+**Made with ❤️ by [Gökhan Taylan](https://github.com/gkhantyln)**
 
 ---
 
