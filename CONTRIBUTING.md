@@ -25,7 +25,7 @@ Bu proje açık kaynak topluluğunun bir parçasıdır. Lütfen:
 
 ### 🐛 Bug Bildirimi
 
-Bir hata mı buldunuz? [Issue açın](https://github.com/gkhantylnl/kiro-custom-model-hijacker/issues) ve şunları ekleyin:
+Bir hata mı buldunuz? [Issue açın](https://github.com/gkhantyln/kiro-custom-model-hijacker/issues) ve şunları ekleyin:
 
 - Hatanın açıklaması
 - Hatayı tekrar etme adımları
@@ -38,7 +38,7 @@ Bir hata mı buldunuz? [Issue açın](https://github.com/gkhantylnl/kiro-custom-
 
 Yeni bir özellik mi istiyorsunuz?
 
-1. Önce [Issues](https://github.com/gkhantylnl/kiro-custom-model-hijacker/issues) sayfasında benzer bir öneri olup olmadığını kontrol edin
+1. Önce [Issues](https://github.com/gkhantyln/kiro-custom-model-hijacker/issues) sayfasında benzer bir öneri olup olmadığını kontrol edin
 2. Yoksa yeni bir issue açın ve şunları ekleyin:
    - Özelliğin açıklaması
    - Neden gerekli olduğu
@@ -81,7 +81,7 @@ Yeni bir özellik mi istiyorsunuz?
 
 ```bash
 # Projeyi clone edin
-git clone https://github.com/gkhantylnl/kiro-custom-model-hijacker.git
+git clone https://github.com/gkhantyln/kiro-custom-model-hijacker.git
 cd kiro-custom-model-hijacker
 
 # Virtual environment oluşturun (önerilen)
@@ -266,7 +266,7 @@ Sorularınız mı var?
 
 - 📧 Email: tylngkhn@gmail.com
 - 💬 Telegram: [@llcoder](https://t.me/llcoder)
-- 🐙 GitHub: [@gkhantylnl](https://github.com/gkhantylnl)
+- 🐙 GitHub: [@gkhantylnl](https://github.com/gkhantyln)
 
 ## 🙏 Teşekkürler
 
